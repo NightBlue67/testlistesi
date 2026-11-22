@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 group-title="TRT Test",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT Test",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TRT Test",TRT Genç
+https://tv-trtgenc.medya.trt.com.tr/master_1440.m3u8
+#EXTINF:-1 group-title="TRT Test",TRT EBA İlkokul
+https://tv-e-okul00.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TRT Test",TRT EBA Ortaokul
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TRT Test",TRT EBA Lise
+https://tv-e-okul02.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="TRT Test",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_1440.m3u8
